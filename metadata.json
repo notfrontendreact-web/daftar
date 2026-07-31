@@ -1,0 +1,6 @@
+{
+  "name": "فروشگاه لوازم تحریر بنفش و صورتی",
+  "description": "فروشگاه آنلاین لوازم تحریر فانتزی با تم صورتی و بنفش پیاده‌سازی شده با فریم‌ورک Angular، افکت انیمیشن، پس‌زمینه دفتر و مداد، ۶ منو و ۸ زیرمنو یکپارچه همراه با درگاه پرداخت شاپرک و دستیار هوشمند Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
