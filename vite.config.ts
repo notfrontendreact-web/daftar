@@ -4,8 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import { fileURLToPath, URL } from 'node:url';
 
 export default defineConfig({
-  // این خط را اضافه کنید تا مسیر پروژه در گیت‌هاب پیجیز درست کار کند
-  base: '/daftar/', 
+  base: '/', // ✅ تغییر از '/daftar/' به '/'
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
